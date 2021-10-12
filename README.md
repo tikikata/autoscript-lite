@@ -16,7 +16,7 @@
 <br>
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86051875/136363437-3cef873a-565d-4cee-aed7-bbde4a85397f.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/136897803-04b20c58-e59e-4847-ae80-936702734174.png" width="400" title="Autoscript-Lite">
 </p>
 
 ## ⏩ HOW TO INSTALL ⏪
