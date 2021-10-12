@@ -43,6 +43,14 @@
 ♦️SHADOWSOCKS-R<br>
 <br>
 </b>
+
+## 😍 THANKS TO 😍
+<b>
+♦️Horass <br>
+♦️Wildy-Project <br>
+<br>
+</b>
+
 <h2 align="center">
 <hr>
 🔺UNTUK OVPN ATAU SSH SAYA TAK AKAN MASUKKAN MEMANDANGKAN SCRIPT INI HANYA LITE VERSION🔺
