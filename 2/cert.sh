@@ -28,8 +28,8 @@ systemctl restart xray-mini@vless-direct
 systemctl restart xray-mini@vless-splice
 systemctl start v2ray
 systemctl start v2ray@none
-systemctl stop v2ray@vless
-systemctl stop v2ray@vnone
+systemctl start v2ray@vless
+systemctl start v2ray@vnone
 systemctl start trojan
 /root/.acme.sh/acme.sh --i
 echo Done
