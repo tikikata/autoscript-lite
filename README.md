@@ -20,7 +20,7 @@
 ## ⏩ LIST PORT BY DEFAULT (CAN CHANGE TO OTHER PORT) ⏪
 <b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/136902640-e4f8a8c8-c243-49bf-9b60-c7b39cbbea8a.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/136998345-236d34be-3ee2-41a3-935c-da043e0b5f9c.png" width="400" title="Autoscript-Lite">
 </p>
 <br>
 </b>
