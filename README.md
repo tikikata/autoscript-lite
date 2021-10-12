@@ -15,6 +15,17 @@
 ✅ SUPPORT UBUNTU & DEBIAN OS <br>
 <br>
 </b>
+## ⏩ LIST PORT BY DEFAULT (CAN CHANGE TO OTHER PORT) ⏪
+<b>
+♦️Vmess TLS         : 8443 <br>
+♦️Vmess None TLS    : 65 <br>
+♦️Vless TLS         : 8000 <br>
+♦️Vless None TLS    : 8880 <br>
+♦️XRAY Direct       : 80 <br>
+♦️XRAY Splice       : 80 <br>
+♦️Trojan-GFW        : 443 <br>
+<br>
+</b>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82468311/136897803-04b20c58-e59e-4847-ae80-936702734174.png" width="400" title="Autoscript-Lite">
 </p>
