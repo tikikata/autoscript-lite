@@ -18,13 +18,13 @@
 
 ## ⏩ LIST PORT BY DEFAULT (CAN CHANGE TO OTHER PORT) ⏪
 <b>
-♦️Vmess TLS               : 8443 <br>
-♦️Vmess None TLS          : 65 <br>
-♦️Vless TLS               : 8000 <br>
-♦️Vless None TLS          : 8880 <br>
-♦️XRAY Direct             : 80 <br>
-♦️XRAY Splice             : 80 <br>
-♦️Trojan-GFW              : 443 <br>
+♦️Vmess TLS               ➡️: 8443 <br>
+♦️Vmess None TLS          ➡️: 65 <br>
+♦️Vless TLS               ➡️: 8000 <br>
+♦️Vless None TLS          ➡️: 8880 <br>
+♦️XRAY Direct             ➡️: 80 <br>
+♦️XRAY Splice             ➡️: 80 <br>
+♦️Trojan-GFW              ➡️: 443 <br>
 <br>
 </b>
 <p align="center">
