@@ -46,8 +46,8 @@
 
 ## 😍 THANKS TO 😍
 <b>
-♦️Horass <br>
-♦️Wildy-Project <br>
+♦️HORASSS <br>
+♦️WILDY-PROJECT <br>
 <br>
 </b>
 
