@@ -18,13 +18,9 @@
 
 ## ⏩ LIST PORT BY DEFAULT (CAN CHANGE TO OTHER PORT) ⏪
 <b>
-♦️Vmess TLS (8443) <br>
-♦️Vmess NTLS (65) <br>
-♦️Vless TLS (8000) <br>
-♦️Vless NTLS (8880) <br>
-♦️XRAY Direct (80) <br>
-♦️XRAY Splice (80) <br>
-♦️Trojan-GFW (443) <br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82468311/136902640-e4f8a8c8-c243-49bf-9b60-c7b39cbbea8a.png" width="400" title="Autoscript-Lite">
+</p>
 <br>
 </b>
 <p align="center">
