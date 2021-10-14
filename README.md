@@ -17,11 +17,8 @@
 <br>
 </b>
 
-## ⏩ LIST PORT BY DEFAULT (CAN CHANGE TO OTHER PORT) ⏪
+## ⏩ AUTOSCRIPTS-LITE EXAMPLE ⏪
 <b>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/136998345-236d34be-3ee2-41a3-935c-da043e0b5f9c.png" width="400" title="Autoscript-Lite">
-</p>
 <br>
 </b>
 <p align="center">
