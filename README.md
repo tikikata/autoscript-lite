@@ -33,14 +33,6 @@
 ♦️ SEND IP DI TELEGRAM SAYA -> t.me/vinstechmy atau @vinstechmy <br>
 <br>
 </b>
-  
-## ⏩ ON-GOING NEXT PROJECT ⏪
-<b>
-✅ WIREGUARD (DONE)<br>
-♦️ SHADOWSOCKS-OBFS<br>
-♦️ SHADOWSOCKS-R<br>
-<br>
-</b>
 
 ## 😍 THANKS TO 😍
 <b>
