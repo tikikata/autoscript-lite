@@ -11,11 +11,7 @@
 ✅ VLESS XTLS DIRECT & XTLS SPLICE <br>
 ✅ TROJAN GFW <br>
 ✅ WIREGUARD <br>
-✅ CHANGE VPN PORT <br>
-✅ VLESS XTLS DIRECT & SPLICE USING SAME PORT <br>
-✅ SUPPORT UBUNTU & DEBIAN OS <br>
-<br>
-✳️ ON-GOING PROJECT -> WIREGUARD <br>
+✅ BACKUP & RESTORE <br>
 <br>
 </b>
 
@@ -24,7 +20,7 @@
 <br>
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/136897803-04b20c58-e59e-4847-ae80-936702734174.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/138095387-b1dbd4c9-d2a0-47be-8da6-eb76b88d5473.png" width="400" title="Autoscript-Lite">
 </p>
 
 ## ⏩ HOW TO INSTALL ⏪
