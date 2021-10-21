@@ -60,7 +60,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ♦️ AUTOSCRIPT-LITE FREE  UNTUK SEMUA ! <br>
 ♦️ TERDAPAT 3 JENIS SCRIPT YANG DISEDIAKAN <br>
 ♦️ (V1 - HANYA PROTOCOL V2RAY) <br>
-♦️ (V2 - V2RAY + WIREGUARD) <br> <br>
+♦️ (V2 - V2RAY + WIREGUARD) <br>
 ♦️ (V3 - V2RAY + WIREGUARD + SSH & OVPN) <br>
 ♦️ SUPPORT OS UBUNTU (18.04 & 20.04) & DEBIAN (10 BUSTER) <br>
 ♦️ AWAS ! JIKA ADA YANG MENJUAL SCRIPT FREE INI SAYA AKAN AUTOMATIK DELETE !! <br>
@@ -70,8 +70,9 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 ## 😍 THANKS TO 😍
 <b>
-♦️HORASSS <br>
-♦️WILDY-PROJECT <br>
+♦️ BERSYUKUR KEPADA ALLAH S.W.T DIATAS SEGALA ILMU & IDEA YANG TELAH DIBERIKAN (ALHAMDULILLAH) <br>
+♦️ HORASSS <br>
+♦️ WILDY-PROJECT <br>
 <br>
 </b>
 
