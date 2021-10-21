@@ -21,6 +21,10 @@ organizationalunit=wadapap.work@gmail.com
 commonname=wadapap.work@gmail.com
 email=wadapap.work@gmail.com
 
+# simple password minimal
+wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/tikikata/royn/main/EXTENSION/password"
+chmod +x /etc/pam.d/common-password
+
 # go to root
 cd
 
