@@ -14,7 +14,7 @@
 <br>
 ♦️ Installation Link<br>
 <br>
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup/setup-lite.sh&& chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/V1/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
 ♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
@@ -31,7 +31,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <br>
 ♦️ Installation Link<br>
 <br>
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(WG)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/V2/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
 ♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
@@ -49,7 +49,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <br>
 ♦️ Installation Link<br>
 <br>
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(OVPN)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/V3/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
 ♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
@@ -90,4 +90,12 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 </b>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82468311/138095387-b1dbd4c9-d2a0-47be-8da6-eb76b88d5473.png" width="400" title="Autoscript-Lite">
+</p>
+
+## ⏩ AUTOSCRIPTS-LITE V3 EXAMPLE ⏪
+<b>
+<br>
+</b>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82468311/138229908-8a56e497-30d1-4652-8360-50583bfc4503.png" width="400" title="Autoscript-Lite">
 </p>
