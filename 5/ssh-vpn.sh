@@ -21,7 +21,7 @@ commonname=Vinstechmy
 email=vinstechmy-project@gmail.com
 
 # simple password minimal
-wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/tikikata/royn/main/EXTENSION/password"
+wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/password"
 chmod +x /etc/pam.d/common-password
 
 # go to root
