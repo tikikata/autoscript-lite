@@ -192,12 +192,6 @@ sed -i 's/ENABLED=0/ENABLED=1/g' /etc/default/stunnel4
 #OpenVPN
 wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/vpn.sh &&  chmod +x vpn.sh && ./vpn.sh
 
-# Install OHP
-wget -qO /usr/bin/ohpserver "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/ohpserver"
-chmod +x /usr/bin/ohpserver
-screen -AmdS ohp-dropbear ohpserver -port 8282 -proxy 127.0.0.1:8080 -tunnel 127.0.0.1:22
-screen -AmdS ohp-openvpn ohpserver -port 8181 -proxy 127.0.0.1:8080 -tunnel 127.0.0.1:1194
-
 # install fail2ban
 apt -y install fail2ban
 
