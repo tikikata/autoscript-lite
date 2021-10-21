@@ -3,8 +3,18 @@
 <hr>
 🔱 Autoscripts-Lite Edition By Vinstechmy (FREE !)🔱
 <h2><hr>
-
-## ⏩ AUTOSCRIPTS-LITE DETAILS ⏪
+  
+## ⏩ AUTOSCRIPTS-LITE DETAILS V1 ⏪
+<b>
+✅ VMESS WEBSOCKET TLS & NON-TLS <br>
+✅ VLESS WEBSOCKET TLS & NON-TLS <br>
+✅ VLESS XTLS DIRECT & XTLS SPLICE <br>
+✅ TROJAN GFW <br>
+✅ BACKUP & RESTORE <br>
+<br>
+</b>
+  
+## ⏩ AUTOSCRIPTS-LITE DETAILS V2 ⏪
 <b>
 ✅ VMESS WEBSOCKET TLS & NON-TLS <br>
 ✅ VLESS WEBSOCKET TLS & NON-TLS <br>
@@ -14,14 +24,18 @@
 ✅ BACKUP & RESTORE <br>
 <br>
 </b>
-
-## ⏩ AUTOSCRIPTS-LITE EXAMPLE ⏪
+  
+## ⏩ AUTOSCRIPTS-LITE DETAILS V3 ⏪
 <b>
+✅ VMESS WEBSOCKET TLS & NON-TLS <br>
+✅ VLESS WEBSOCKET TLS & NON-TLS <br>
+✅ VLESS XTLS DIRECT & XTLS SPLICE <br>
+✅ TROJAN GFW <br>
+✅ WIREGUARD <br>
+✅ SSH & OVPN <br>
+✅ BACKUP & RESTORE <br>
 <br>
 </b>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/138095387-b1dbd4c9-d2a0-47be-8da6-eb76b88d5473.png" width="400" title="Autoscript-Lite">
-</p>
 
 ## ⏩ HOW TO INSTALL ⏪
 <b>
@@ -39,3 +53,10 @@
 <br>
 </b>
 
+## ⏩ AUTOSCRIPTS-LITE EXAMPLE ⏪
+<b>
+<br>
+</b>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82468311/138095387-b1dbd4c9-d2a0-47be-8da6-eb76b88d5473.png" width="400" title="Autoscript-Lite">
+</p>
