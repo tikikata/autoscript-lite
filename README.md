@@ -76,7 +76,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <br>
 </b>
 
-## ⏩ AUTOSCRIPTS-LITE V2 EXAMPLE ⏪
+## ⏩ AUTOSCRIPTS-LITE V1 EXAMPLE ⏪
 <b>
 <br>
 </b>
