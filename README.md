@@ -39,8 +39,3 @@
 <br>
 </b>
 
-<h2 align="center">
-<hr>
-🔺UNTUK OVPN ATAU SSH SAYA TAK AKAN MASUKKAN MEMANDANGKAN SCRIPT INI HANYA LITE VERSION🔺
-<h2><hr>
-
