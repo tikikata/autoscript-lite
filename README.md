@@ -12,6 +12,8 @@
 ✅ TROJAN GFW <br>
 ✅ BACKUP & RESTORE <br>
 <br>
+✅ Installation Link ->  <br>
+<br>
 </b>
   
 ## ⏩ AUTOSCRIPTS-LITE DETAILS V2 ⏪
@@ -22,6 +24,8 @@
 ✅ TROJAN GFW <br>
 ✅ WIREGUARD <br>
 ✅ BACKUP & RESTORE <br>
+<br>
+✅ Installation Link ->  <br>
 <br>
 </b>
   
@@ -34,6 +38,8 @@
 ✅ WIREGUARD <br>
 ✅ SSH & OVPN <br>
 ✅ BACKUP & RESTORE <br>
+<br>
+✅ Installation Link ->  <br>
 <br>
 </b>
 
