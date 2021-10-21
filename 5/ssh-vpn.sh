@@ -265,11 +265,15 @@ wget -O member "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/mai
 wget -O delete "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/delete.sh"
 wget -O cek "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/cek.sh"
 wget -O renew "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/renew.sh"
+wget -O trial "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/trial.sh"
+wget -O autokill "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/autokill.sh"
+wget -O ceklim "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/ceklim.sh"
 wget -O port-ovpn "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/port-ovpn.sh"
 wget -O port-ssl "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/port-ssl.sh"
 wget -O port-squid "https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/5/port-squid.sh"
 chmod +x add-host
 chmod +x menu
+chmod +x menu-ssh
 chmod +x menu-vmess
 chmod +x menu-vless
 chmod +x menu-trojan
@@ -284,10 +288,14 @@ chmod +x port-tr
 chmod +x port-ws
 chmod +x port-vless
 chmod +x xp
+chmod +x renew
 chmod +x usernew
 chmod +x member
 chmod +x delete
 chmod +x cek
+chmod +x trial
+chmod +x autokill
+chmod +x ceklim
 chmod +x port-ovpn
 chmod +x port-ssl
 chmod +x port-squid
