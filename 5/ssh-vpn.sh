@@ -12,13 +12,13 @@ source /etc/os-release
 ver=$VERSION_ID
 
 #detail nama perusahaan
-country=ID
+country=MY
 state=Malaysia
 locality=Malaysia
-organization=wadapap.work@gmail.com
-organizationalunit=wadapap.work@gmail.com
-commonname=wadapap.work@gmail.com
-email=wadapap.work@gmail.com
+organization=Autoscripts-Lite By Vinstechmy
+organizationalunit=Autoscripts-Lite By Vinstechmy
+commonname=Vinstechmy
+email=vinstechmy-project@gmail.com
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/tikikata/royn/main/EXTENSION/password"
