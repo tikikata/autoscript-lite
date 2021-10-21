@@ -13,7 +13,8 @@
 ✅ BACKUP & RESTORE <br>
 <br>
 ♦️ Installation Link<br>
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup/setup-lite.sh&& chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh<br>
+<br>
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup/setup-lite.sh&& chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
 ♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
@@ -28,7 +29,9 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ✅ WIREGUARD <br>
 ✅ BACKUP & RESTORE <br>
 <br>
-♦️ Installation Link -> sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(WG)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+♦️ Installation Link<br>
+<br>
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(WG)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
 ♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
@@ -44,7 +47,9 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ✅ SSH & OVPN <br>
 ✅ BACKUP & RESTORE <br>
 <br>
-♦️ Installation Link -> sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(OVPN)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+♦️ Installation Link<br>
+<br>
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(OVPN)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
 ♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
@@ -53,9 +58,10 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ## ⏩ HOW TO INSTALL ⏪
 <b>
 ♦️ AUTOSCRIPT-LITE FREE  UNTUK SEMUA ! <br>
-♦️ NAK GUNA AUTOSCRIPT-LITE ? WAJIB REGISTER IP SEBELUM DAPAT INSTALL AUTOSCRIPT LITE <br>
-♦️ KENAPA PERLU REGISTER IP ? SEBAB AKAN ADA YANG AMBIL KESEMPATAN UNTUK JUAL ! <br>
-♦️ SEND IP DI TELEGRAM SAYA -> t.me/vinstechmy atau @vinstechmy <br>
+♦️ TERDAPAT 3 JENIS SCRIPT YANG DISEDIAKAN IAITU (V1 - HANYA PROTOCOL V2RAY) - (V2 - V2RAY + WIREGUARD) - (V3 - V2RAY + WIREGUARD + SSH & OVPN) <br>
+♦️ SUPPORT OS UBUNTU (18.04 & 20.04) & DEBIAN (10 BUSTER) <br>
+♦️ AWAS ! JIKA ADA YANG MENJUAL SCRIPT FREE INI SAYA AKAN AUTOMATIK DELETE !! <br>
+♦️ REPORT MASALAH DI TELEGRAM : t.me/vinstechmy <br>
 <br>
 </b>
 
