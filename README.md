@@ -12,7 +12,9 @@
 ✅ TROJAN GFW <br>
 ✅ BACKUP & RESTORE <br>
 <br>
-♦️ Installation Link -> sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup/setup-lite.sh && screen -S setup-lite ./setup-lite.sh  <br>
+♦️ Installation Link -> sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup/setup-lite.sh&& chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+<br>
+♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
 </b>
   
@@ -25,7 +27,9 @@
 ✅ WIREGUARD <br>
 ✅ BACKUP & RESTORE <br>
 <br>
-♦️ Installation Link ->  <br>
+♦️ Installation Link -> sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(WG)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+<br>
+♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
 </b>
   
@@ -39,7 +43,9 @@
 ✅ SSH & OVPN <br>
 ✅ BACKUP & RESTORE <br>
 <br>
-♦️ Installation Link ->  <br>
+♦️ Installation Link -> sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/Autoscripts-Lite%20Setup%20(OVPN)/setup-lite.sh chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+<br>
+♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
 </b>
 
