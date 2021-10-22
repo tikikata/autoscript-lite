@@ -54,6 +54,19 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
 </b>
+  
+## ⏩ AUTOSCRIPTS-LITE V4 DETAILS ⏪
+<b>
+✅ SSH & OVPN <br>
+✅ BACKUP & RESTORE <br>
+<br>
+♦️ Installation Link<br>
+<br>
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/V4/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
+<br>
+♦️ License Key : VinstechmyFreeAutoscriptsLite
+<br>
+</b>
 
 ## ⏩ NOTA RINGKAS ⏪
 <b>
@@ -62,6 +75,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ♦️ (V1 - HANYA PROTOCOL V2RAY/XRAY/TROJAN) <br>
 ♦️ (V2 - V2RAY/XRAY/TROJAN + WIREGUARD) <br>
 ♦️ (V3 - V2RAY/XRAY/TROJAN + WIREGUARD + SSH & OVPN) <br>
+♦️ (V4 - (SSH & OVPN) <br>
 ♦️ SUPPORT OS UBUNTU (18.04 & 20.04) & DEBIAN (10 BUSTER) <br>
 ♦️ AWAS ! JIKA ADA YANG MENJUAL SCRIPT FREE INI SAYA AKAN AUTOMATIK DELETE !! <br>
 ♦️ REPORT MASALAH DI TELEGRAM : t.me/vinstechmy <br>
